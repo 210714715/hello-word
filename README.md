@@ -1,2 +1,2 @@
-# hello-word
-Este repositório é para praticar o fluxo do GitHub 
+Aluno do curso de Engenharia de Software formando de 2025 
+Residente em Palhoça/SC e que ama a área da tecnologia 
